@@ -34,7 +34,7 @@ Generally, you would want to compile and execute the program locally. To do that
 3. Run the following commands to compile and execute the program:
 
 ```git
-g++ dogyears.cpp -o dogyears
+g++ dog_years.cpp -o dogyears
 ./dogyears
 ```
 
